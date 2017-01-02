@@ -1,0 +1,46 @@
+{
+  "content": [
+    {
+      "id": 80043,
+      "userId": 66,
+      "pid": "DK5QPID",
+      "zoneId": "KEY_L",
+      "name": "L",
+      "color": "#198C19",
+      "effect": "SET_COLOR",
+      "isRead": true,
+      "isMuted": false,
+      "isArchived": true,
+      "shouldNotify": false,
+      "clientName": "Q-Cloud",
+      "message": "Hello!",
+      "readAt": null,
+      "createdAt": 1481670031690,
+      "updatedAt": 1481697153379
+    },
+    {
+      "id": 80044,
+      "userId": 66,
+      "pid": "DK5QPID",
+      "zoneId": "KEY_E",
+      "name": "E",
+      "color": "#E50000",
+      "effect": "SET_COLOR",
+      "isRead": true,
+      "isMuted": false,
+      "isArchived": true,
+      "shouldNotify": false,
+      "clientName": "Q-Cloud",
+      "message": "Hello!",
+      "readAt": null,
+      "createdAt": 1481670031695,
+      "updatedAt": 1481697155065
+    }
+  ],
+  "size": 2,
+  "sort": "createdAt: ASC,zoneId: ASC",
+  "hasNextPage": true,
+  "page": 1,
+  "totalElements": 5,
+  "totalPages": 3
+}

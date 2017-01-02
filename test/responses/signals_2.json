@@ -1,0 +1,28 @@
+{
+  "content": [
+    {
+      "id": 80045,
+      "userId": 66,
+      "pid": "DK5QPID",
+      "zoneId": "KEY_H",
+      "name": "H",
+      "color": "#36A2EB",
+      "effect": "SET_COLOR",
+      "isRead": true,
+      "isMuted": false,
+      "isArchived": true,
+      "shouldNotify": false,
+      "clientName": "Q-Cloud",
+      "message": "Hello!",
+      "readAt": null,
+      "createdAt": 1481670031700,
+      "updatedAt": 1481697159688
+    }
+  ],
+  "size": 2,
+  "sort": "createdAt: ASC,zoneId: ASC",
+  "hasNextPage": false,
+  "page": 2,
+  "totalElements": 5,
+  "totalPages": 3
+}

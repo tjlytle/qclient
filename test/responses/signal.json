@@ -1,0 +1,18 @@
+{
+  "id": 92233,
+  "userId": 66,
+  "pid": "DK5QPID",
+  "zoneId": "KEY_A",
+  "name": "Test Signal",
+  "color": "#008000",
+  "effect": "SET_COLOR",
+  "isRead": false,
+  "isMuted": false,
+  "isArchived": false,
+  "shouldNotify": false,
+  "clientName": "User_66",
+  "message": "",
+  "readAt": null,
+  "createdAt": 1483380173101,
+  "updatedAt": 1483380173101
+}

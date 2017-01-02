@@ -1,0 +1,23 @@
+{
+  "name": "tjlytle/q-client",
+  "description": "API client for the Das Keyboard Q",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Tim Lytle",
+      "email": "tim@timlytle.net"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^6.2",
+    "phpunit/phpunit": "^5.7",
+    "psr/http-message": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "QClient\\": "src/",
+      "QClientTest\\": "test/"
+    }
+  }
+}

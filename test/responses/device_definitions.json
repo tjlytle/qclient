@@ -1,0 +1,972 @@
+[
+  {
+    "latestFirmwareVersion": "you have no firmware version yet",
+    "name": "M50 RGB Pro-Gaming Mouse",
+    "vid": "24F0",
+    "pid": "M50RGBPID",
+    "modelNumber": "model# missing",
+    "description": "Division Zero M50 RGB pro-gaming mouse by Das Keyboard",
+    "zones": [
+      {
+        "id": "KEY_WHEEL",
+        "description": "Wheel"
+      },
+      {
+        "id": "KEY_LIGHT_LOGO",
+        "description": "Logo"
+      },
+      {
+        "id": "KEY_LIGHT_SHOE",
+        "description": "Shoe"
+      },
+      {
+        "id": "KEY_LIGHT_INDICATOR_DPI",
+        "description": "DPI Indicator"
+      }
+    ],
+    "vidPid": {
+      "pid": "M50RGBPID",
+      "vid": "24F0"
+    }
+  },
+  {
+    "latestFirmwareVersion": "you have no firmware version yet",
+    "name": "X50-R Pro-Gaming Keyboard",
+    "vid": "24F0",
+    "pid": "X50PID",
+    "modelNumber": "model# missing",
+    "description": "Division Zero X50-R pro-gaming keyboard by Das Keyboard",
+    "zones": [
+      {
+        "id": "KEY_ESCAPE",
+        "description": "Escape"
+      },
+      {
+        "id": "KEY_F1",
+        "description": "F1"
+      },
+      {
+        "id": "KEY_F2",
+        "description": "F2"
+      },
+      {
+        "id": "KEY_F3",
+        "description": "F3"
+      },
+      {
+        "id": "KEY_F4",
+        "description": "F4"
+      },
+      {
+        "id": "KEY_F5",
+        "description": "F5"
+      },
+      {
+        "id": "KEY_F6",
+        "description": "F6"
+      },
+      {
+        "id": "KEY_F7",
+        "description": "F7"
+      },
+      {
+        "id": "KEY_F8",
+        "description": "F8"
+      },
+      {
+        "id": "KEY_F9",
+        "description": "F9"
+      },
+      {
+        "id": "KEY_F10",
+        "description": "F10"
+      },
+      {
+        "id": "KEY_F11",
+        "description": "F11"
+      },
+      {
+        "id": "KEY_F12",
+        "description": "F12"
+      },
+      {
+        "id": "KEY_PRINT_SCREEN",
+        "description": "PrintScreen"
+      },
+      {
+        "id": "KEY_SCROLL_LOCK",
+        "description": "ScrollLock"
+      },
+      {
+        "id": "KEY_PAUSE_BREAK",
+        "description": "PauseBreak"
+      },
+      {
+        "id": "KEY_MACRO_1",
+        "description": "Macro1"
+      },
+      {
+        "id": "KEY_MACRO_2",
+        "description": "Macro2"
+      },
+      {
+        "id": "KEY_MACRO_3",
+        "description": "Macro3"
+      },
+      {
+        "id": "KEY_VOLUME_QU_BUTTON",
+        "description": "Volume / Q Button"
+      },
+      {
+        "id": "KEY_US_BACKTICK",
+        "description": "`"
+      },
+      {
+        "id": "KEY_1",
+        "description": "1"
+      },
+      {
+        "id": "KEY_2",
+        "description": "2"
+      },
+      {
+        "id": "KEY_3",
+        "description": "3"
+      },
+      {
+        "id": "KEY_4",
+        "description": "4"
+      },
+      {
+        "id": "KEY_5",
+        "description": "5"
+      },
+      {
+        "id": "KEY_6",
+        "description": "6"
+      },
+      {
+        "id": "KEY_7",
+        "description": "7"
+      },
+      {
+        "id": "KEY_8",
+        "description": "8"
+      },
+      {
+        "id": "KEY_9",
+        "description": "9"
+      },
+      {
+        "id": "KEY_0",
+        "description": "0"
+      },
+      {
+        "id": "KEY_US_SUBTRACT",
+        "description": "-"
+      },
+      {
+        "id": "KEY_US_EQUAL",
+        "description": "="
+      },
+      {
+        "id": "KEY_BACKSPACE",
+        "description": "Backspace"
+      },
+      {
+        "id": "KEY_INSERT",
+        "description": "Insert"
+      },
+      {
+        "id": "KEY_HOME",
+        "description": "Home"
+      },
+      {
+        "id": "KEY_PAGE_UP",
+        "description": "PageUp"
+      },
+      {
+        "id": "KEY_NUMLOCK",
+        "description": "NumLock"
+      },
+      {
+        "id": "KEY_NUMPAD_DIVIDE",
+        "description": "NumPad_Divide"
+      },
+      {
+        "id": "KEY_NUMPAD_MULTIPLY",
+        "description": "NumPad_Multiply"
+      },
+      {
+        "id": "KEY_NUMPAD_SUBTRACT",
+        "description": "NumPad_Substract"
+      },
+      {
+        "id": "KEY_LIGHT_PIPE_LEFT",
+        "description": "Left Pipe"
+      },
+      {
+        "id": "KEY_TAB",
+        "description": "Tab"
+      },
+      {
+        "id": "KEY_Q",
+        "description": "Q"
+      },
+      {
+        "id": "KEY_W",
+        "description": "W"
+      },
+      {
+        "id": "KEY_E",
+        "description": "E"
+      },
+      {
+        "id": "KEY_R",
+        "description": "R"
+      },
+      {
+        "id": "KEY_T",
+        "description": "T"
+      },
+      {
+        "id": "KEY_Y",
+        "description": "Y"
+      },
+      {
+        "id": "KEY_U",
+        "description": "U"
+      },
+      {
+        "id": "KEY_I",
+        "description": "I"
+      },
+      {
+        "id": "KEY_O",
+        "description": "O"
+      },
+      {
+        "id": "KEY_P",
+        "description": "P"
+      },
+      {
+        "id": "KEY_US_OPEN_SQUARE_BRACKET",
+        "description": "["
+      },
+      {
+        "id": "KEY_US_CLOSE_SQUARE_BRACKET",
+        "description": "]"
+      },
+      {
+        "id": "KEY_US_BACKSLASH",
+        "description": "\\"
+      },
+      {
+        "id": "KEY_DELETE",
+        "description": "Delete"
+      },
+      {
+        "id": "KEY_END",
+        "description": "End"
+      },
+      {
+        "id": "KEY_PAGE_DOWN",
+        "description": "PageDown"
+      },
+      {
+        "id": "KEY_NUMPAD_7",
+        "description": "NumPad7"
+      },
+      {
+        "id": "KEY_NUMPAD_8",
+        "description": "NumPad8"
+      },
+      {
+        "id": "KEY_NUMPAD_9",
+        "description": "NumPad9"
+      },
+      {
+        "id": "KEY_NUMPAD_ADD",
+        "description": "NumPad_Add"
+      },
+      {
+        "id": "KEY_CAPS_LOCK",
+        "description": "CapsLock"
+      },
+      {
+        "id": "KEY_A",
+        "description": "A"
+      },
+      {
+        "id": "KEY_S",
+        "description": "S"
+      },
+      {
+        "id": "KEY_D",
+        "description": "D"
+      },
+      {
+        "id": "KEY_F",
+        "description": "F"
+      },
+      {
+        "id": "KEY_G",
+        "description": "G"
+      },
+      {
+        "id": "KEY_H",
+        "description": "H"
+      },
+      {
+        "id": "KEY_J",
+        "description": "J"
+      },
+      {
+        "id": "KEY_K",
+        "description": "K"
+      },
+      {
+        "id": "KEY_L",
+        "description": "L"
+      },
+      {
+        "id": "KEY_US_SEMICOLON",
+        "description": ";"
+      },
+      {
+        "id": "KEY_US_QUOTE",
+        "description": "'"
+      },
+      {
+        "id": "KEY_ENTER",
+        "description": "Enter"
+      },
+      {
+        "id": "KEY_LIGHT_INDICATOR_GAMING_MODE",
+        "description": "Capslock Indicator"
+      },
+      {
+        "id": "KEY_LIGHT_INDICATOR_NUMLOCK",
+        "description": "Numlock Indicator"
+      },
+      {
+        "id": "KEY_LIGHT_INDICATOR_CAPSLOCK",
+        "description": "Capslock Indicator"
+      },
+      {
+        "id": "KEY_LIGHT_INDICATOR_SCROLLOCK",
+        "description": "Scroll lock Indicator"
+      },
+      {
+        "id": "KEY_LIGHT_PIPE_RIGHT",
+        "description": "Right Pipe"
+      },
+      {
+        "id": "KEY_NUMPAD_4",
+        "description": "NumPad4"
+      },
+      {
+        "id": "KEY_NUMPAD_5",
+        "description": "NumPad5"
+      },
+      {
+        "id": "KEY_NUMPAD_6",
+        "description": "NumPad6"
+      },
+      {
+        "id": "KEY_SHIFT_LEFT",
+        "description": "Shift Left"
+      },
+      {
+        "id": "KEY_Z",
+        "description": "Z"
+      },
+      {
+        "id": "KEY_X",
+        "description": "X"
+      },
+      {
+        "id": "KEY_C",
+        "description": "C"
+      },
+      {
+        "id": "KEY_V",
+        "description": "V"
+      },
+      {
+        "id": "KEY_B",
+        "description": "B"
+      },
+      {
+        "id": "KEY_N",
+        "description": "N"
+      },
+      {
+        "id": "KEY_M",
+        "description": "M"
+      },
+      {
+        "id": "KEY_US_COMMA",
+        "description": ","
+      },
+      {
+        "id": "KEY_US_DOT",
+        "description": "."
+      },
+      {
+        "id": "KEY_US_SLASH",
+        "description": "/"
+      },
+      {
+        "id": "KEY_SHIFT_RIGHT",
+        "description": "Shift Right"
+      },
+      {
+        "id": "KEY_ARROW_UP",
+        "description": "UpArrow"
+      },
+      {
+        "id": "KEY_NUMPAD_1",
+        "description": "NumPad1"
+      },
+      {
+        "id": "KEY_NUMPAD_2",
+        "description": "NumPad2"
+      },
+      {
+        "id": "KEY_NUMPAD_3",
+        "description": "NumPad3"
+      },
+      {
+        "id": "KEY_CONTROL_LEFT",
+        "description": "Left Ctrl"
+      },
+      {
+        "id": "KEY_META_LEFT",
+        "description": "Left Meta"
+      },
+      {
+        "id": "KEY_ALT_LEFT",
+        "description": "Left Alt"
+      },
+      {
+        "id": "KEY_SPACE",
+        "description": "Space"
+      },
+      {
+        "id": "KEY_ALT_RIGHT",
+        "description": "Right Alt"
+      },
+      {
+        "id": "KEY_FN_KEY",
+        "description": "Fn"
+      },
+      {
+        "id": "KEY_CONTEXT_MENU",
+        "description": "ContextMenu"
+      },
+      {
+        "id": "KEY_CONTROL_RIGHT",
+        "description": "Right Ctrl"
+      },
+      {
+        "id": "KEY_ARROW_LEFT",
+        "description": "LeftArrow"
+      },
+      {
+        "id": "KEY_ARROW_DOWN",
+        "description": "DownArrow"
+      },
+      {
+        "id": "KEY_ARROW_RIGHT",
+        "description": "RightArrow"
+      },
+      {
+        "id": "KEY_NUMPAD_0",
+        "description": "NumPad0"
+      },
+      {
+        "id": "KEY_NUMPAD_DECIMAL",
+        "description": "NumPad_Decimal"
+      },
+      {
+        "id": "KEY_NUMPAD_ENTER",
+        "description": "NumPad_ENTER"
+      }
+    ],
+    "vidPid": {
+      "pid": "X50PID",
+      "vid": "24F0"
+    }
+  },
+  {
+    "latestFirmwareVersion": "you have no firmware version yet",
+    "name": "DK5 Q",
+    "vid": "24F0",
+    "pid": "DK5QPID",
+    "modelNumber": "model# missing",
+    "description": "DK5 Q - The connected keyboard by Das Keyboard",
+    "zones": [
+      {
+        "id": "KEY_ESCAPE",
+        "description": "Escape"
+      },
+      {
+        "id": "KEY_F1",
+        "description": "F1"
+      },
+      {
+        "id": "KEY_F2",
+        "description": "F2"
+      },
+      {
+        "id": "KEY_F3",
+        "description": "F3"
+      },
+      {
+        "id": "KEY_F4",
+        "description": "F4"
+      },
+      {
+        "id": "KEY_F5",
+        "description": "F5"
+      },
+      {
+        "id": "KEY_F6",
+        "description": "F6"
+      },
+      {
+        "id": "KEY_F7",
+        "description": "F7"
+      },
+      {
+        "id": "KEY_F8",
+        "description": "F8"
+      },
+      {
+        "id": "KEY_F9",
+        "description": "F9"
+      },
+      {
+        "id": "KEY_F10",
+        "description": "F10"
+      },
+      {
+        "id": "KEY_F11",
+        "description": "F11"
+      },
+      {
+        "id": "KEY_F12",
+        "description": "F12"
+      },
+      {
+        "id": "KEY_PRINT_SCREEN",
+        "description": "PrintScreen"
+      },
+      {
+        "id": "KEY_SCROLL_LOCK",
+        "description": "ScrollLock"
+      },
+      {
+        "id": "KEY_PAUSE_BREAK",
+        "description": "PauseBreak"
+      },
+      {
+        "id": "KEY_MACRO_1",
+        "description": "Macro1"
+      },
+      {
+        "id": "KEY_MACRO_2",
+        "description": "Macro2"
+      },
+      {
+        "id": "KEY_MACRO_3",
+        "description": "Macro3"
+      },
+      {
+        "id": "KEY_VOLUME_QU_BUTTON",
+        "description": "Volume / Q Button"
+      },
+      {
+        "id": "KEY_US_BACKTICK",
+        "description": "`"
+      },
+      {
+        "id": "KEY_1",
+        "description": "1"
+      },
+      {
+        "id": "KEY_2",
+        "description": "2"
+      },
+      {
+        "id": "KEY_3",
+        "description": "3"
+      },
+      {
+        "id": "KEY_4",
+        "description": "4"
+      },
+      {
+        "id": "KEY_5",
+        "description": "5"
+      },
+      {
+        "id": "KEY_6",
+        "description": "6"
+      },
+      {
+        "id": "KEY_7",
+        "description": "7"
+      },
+      {
+        "id": "KEY_8",
+        "description": "8"
+      },
+      {
+        "id": "KEY_9",
+        "description": "9"
+      },
+      {
+        "id": "KEY_0",
+        "description": "0"
+      },
+      {
+        "id": "KEY_US_SUBTRACT",
+        "description": "-"
+      },
+      {
+        "id": "KEY_US_EQUAL",
+        "description": "="
+      },
+      {
+        "id": "KEY_BACKSPACE",
+        "description": "Backspace"
+      },
+      {
+        "id": "KEY_INSERT",
+        "description": "Insert"
+      },
+      {
+        "id": "KEY_HOME",
+        "description": "Home"
+      },
+      {
+        "id": "KEY_PAGE_UP",
+        "description": "PageUp"
+      },
+      {
+        "id": "KEY_NUMLOCK",
+        "description": "NumLock"
+      },
+      {
+        "id": "KEY_NUMPAD_DIVIDE",
+        "description": "NumPad_Divide"
+      },
+      {
+        "id": "KEY_NUMPAD_MULTIPLY",
+        "description": "NumPad_Multiply"
+      },
+      {
+        "id": "KEY_NUMPAD_SUBTRACT",
+        "description": "NumPad_Substract"
+      },
+      {
+        "id": "KEY_LIGHT_PIPE_LEFT",
+        "description": "Left Pipe"
+      },
+      {
+        "id": "KEY_TAB",
+        "description": "Tab"
+      },
+      {
+        "id": "KEY_Q",
+        "description": "Q"
+      },
+      {
+        "id": "KEY_W",
+        "description": "W"
+      },
+      {
+        "id": "KEY_E",
+        "description": "E"
+      },
+      {
+        "id": "KEY_R",
+        "description": "R"
+      },
+      {
+        "id": "KEY_T",
+        "description": "T"
+      },
+      {
+        "id": "KEY_Y",
+        "description": "Y"
+      },
+      {
+        "id": "KEY_U",
+        "description": "U"
+      },
+      {
+        "id": "KEY_I",
+        "description": "I"
+      },
+      {
+        "id": "KEY_O",
+        "description": "O"
+      },
+      {
+        "id": "KEY_P",
+        "description": "P"
+      },
+      {
+        "id": "KEY_US_OPEN_SQUARE_BRACKET",
+        "description": "["
+      },
+      {
+        "id": "KEY_US_CLOSE_SQUARE_BRACKET",
+        "description": "]"
+      },
+      {
+        "id": "KEY_US_BACKSLASH",
+        "description": "\\"
+      },
+      {
+        "id": "KEY_DELETE",
+        "description": "Delete"
+      },
+      {
+        "id": "KEY_END",
+        "description": "End"
+      },
+      {
+        "id": "KEY_PAGE_DOWN",
+        "description": "PageDown"
+      },
+      {
+        "id": "KEY_NUMPAD_7",
+        "description": "NumPad7"
+      },
+      {
+        "id": "KEY_NUMPAD_8",
+        "description": "NumPad8"
+      },
+      {
+        "id": "KEY_NUMPAD_9",
+        "description": "NumPad9"
+      },
+      {
+        "id": "KEY_NUMPAD_ADD",
+        "description": "NumPad_Add"
+      },
+      {
+        "id": "KEY_CAPS_LOCK",
+        "description": "CapsLock"
+      },
+      {
+        "id": "KEY_A",
+        "description": "A"
+      },
+      {
+        "id": "KEY_S",
+        "description": "S"
+      },
+      {
+        "id": "KEY_D",
+        "description": "D"
+      },
+      {
+        "id": "KEY_F",
+        "description": "F"
+      },
+      {
+        "id": "KEY_G",
+        "description": "G"
+      },
+      {
+        "id": "KEY_H",
+        "description": "H"
+      },
+      {
+        "id": "KEY_J",
+        "description": "J"
+      },
+      {
+        "id": "KEY_K",
+        "description": "K"
+      },
+      {
+        "id": "KEY_L",
+        "description": "L"
+      },
+      {
+        "id": "KEY_US_SEMICOLON",
+        "description": ";"
+      },
+      {
+        "id": "KEY_US_QUOTE",
+        "description": "'"
+      },
+      {
+        "id": "KEY_ENTER",
+        "description": "Enter"
+      },
+      {
+        "id": "KEY_LIGHT_INDICATOR_GAMING_MODE",
+        "description": "Capslock Indicator"
+      },
+      {
+        "id": "KEY_LIGHT_INDICATOR_NUMLOCK",
+        "description": "Numlock Indicator"
+      },
+      {
+        "id": "KEY_LIGHT_INDICATOR_CAPSLOCK",
+        "description": "Capslock Indicator"
+      },
+      {
+        "id": "KEY_LIGHT_INDICATOR_SCROLLOCK",
+        "description": "Scroll lock Indicator"
+      },
+      {
+        "id": "KEY_LIGHT_PIPE_RIGHT",
+        "description": "Right Pipe"
+      },
+      {
+        "id": "KEY_NUMPAD_4",
+        "description": "NumPad4"
+      },
+      {
+        "id": "KEY_NUMPAD_5",
+        "description": "NumPad5"
+      },
+      {
+        "id": "KEY_NUMPAD_6",
+        "description": "NumPad6"
+      },
+      {
+        "id": "KEY_SHIFT_LEFT",
+        "description": "Shift Left"
+      },
+      {
+        "id": "KEY_Z",
+        "description": "Z"
+      },
+      {
+        "id": "KEY_X",
+        "description": "X"
+      },
+      {
+        "id": "KEY_C",
+        "description": "C"
+      },
+      {
+        "id": "KEY_V",
+        "description": "V"
+      },
+      {
+        "id": "KEY_B",
+        "description": "B"
+      },
+      {
+        "id": "KEY_N",
+        "description": "N"
+      },
+      {
+        "id": "KEY_M",
+        "description": "M"
+      },
+      {
+        "id": "KEY_US_COMMA",
+        "description": ","
+      },
+      {
+        "id": "KEY_US_DOT",
+        "description": "."
+      },
+      {
+        "id": "KEY_US_SLASH",
+        "description": "/"
+      },
+      {
+        "id": "KEY_SHIFT_RIGHT",
+        "description": "Shift Right"
+      },
+      {
+        "id": "KEY_ARROW_UP",
+        "description": "UpArrow"
+      },
+      {
+        "id": "KEY_NUMPAD_1",
+        "description": "NumPad1"
+      },
+      {
+        "id": "KEY_NUMPAD_2",
+        "description": "NumPad2"
+      },
+      {
+        "id": "KEY_NUMPAD_3",
+        "description": "NumPad3"
+      },
+      {
+        "id": "KEY_CONTROL_LEFT",
+        "description": "Left Ctrl"
+      },
+      {
+        "id": "KEY_META_LEFT",
+        "description": "Left Meta"
+      },
+      {
+        "id": "KEY_ALT_LEFT",
+        "description": "Left Alt"
+      },
+      {
+        "id": "KEY_SPACE",
+        "description": "Space"
+      },
+      {
+        "id": "KEY_ALT_RIGHT",
+        "description": "Right Alt"
+      },
+      {
+        "id": "KEY_FN_KEY",
+        "description": "Fn"
+      },
+      {
+        "id": "KEY_CONTEXT_MENU",
+        "description": "ContextMenu"
+      },
+      {
+        "id": "KEY_CONTROL_RIGHT",
+        "description": "Right Ctrl"
+      },
+      {
+        "id": "KEY_ARROW_LEFT",
+        "description": "LeftArrow"
+      },
+      {
+        "id": "KEY_ARROW_DOWN",
+        "description": "DownArrow"
+      },
+      {
+        "id": "KEY_ARROW_RIGHT",
+        "description": "RightArrow"
+      },
+      {
+        "id": "KEY_NUMPAD_0",
+        "description": "NumPad0"
+      },
+      {
+        "id": "KEY_NUMPAD_DECIMAL",
+        "description": "NumPad_Decimal"
+      },
+      {
+        "id": "KEY_NUMPAD_ENTER",
+        "description": "NumPad_ENTER"
+      }
+    ],
+    "vidPid": {
+      "pid": "DK5QPID",
+      "vid": "24F0"
+    }
+  }
+]
