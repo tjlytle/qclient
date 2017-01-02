@@ -2,7 +2,7 @@
   "name": "tjlytle/qclient",
   "description": "API client for the Das Keyboard Q",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
       "name": "Tim Lytle",
