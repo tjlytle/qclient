@@ -1,5 +1,5 @@
 {
-  "name": "tjlytle/q-client",
+  "name": "tjlytle/qclient",
   "description": "API client for the Das Keyboard Q",
   "minimum-stability": "stable",
   "license": "proprietary",
@@ -11,8 +11,10 @@
   ],
   "require": {
     "guzzlehttp/guzzle": "^6.2",
-    "phpunit/phpunit": "^5.7",
     "psr/http-message": "^1.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5.7"
   },
   "autoload": {
     "psr-4": {
