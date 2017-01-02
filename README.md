@@ -1,5 +1,6 @@
 PHP Client for Das Keyboard Q
 ==============================
+[![Build Status](https://travis-ci.org/tjlytle/qclient.svg?branch=master)](https://travis-ci.org/tjlytle/qclient)
 
 Currently work in progress. See [example](example) for usage.
  
